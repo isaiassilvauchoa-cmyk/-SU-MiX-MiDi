@@ -1,0 +1,8 @@
+{
+  "name": "isu - midi mix",
+  "description": "Mixador de arquivos MIDI com ferramentas profissionais de junção e fusão de múltiplos arquivos tanto em paralelo (sincronizado) quanto em sequência.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
